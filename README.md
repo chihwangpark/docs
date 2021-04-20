@@ -1,1 +1,1 @@
-# docs
+<?php header( 'Location: /index.html' ) ;  ?>
